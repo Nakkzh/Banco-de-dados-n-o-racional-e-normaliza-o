@@ -1,1 +1,1 @@
-# Banco de dados, Não racional e Normalização
+# Banco de dados, Não relacional e Normalização
